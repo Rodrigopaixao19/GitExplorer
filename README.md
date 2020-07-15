@@ -10,18 +10,18 @@ A Web app built with ReactJS and Styled Components where you can
 - View list of stargazers
 
 
-# :computer: Stack
+
+
+# :computer: Stack/Libraries 📦 
 
 - React/Typescript
+- [Axios](https://github.com/axios/axios)
+- [Styled Components](https://styled-components.com)
+- [React Router Dom](https://reacttraining.com/react-router/web)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Feather Icons](https://github.com/feathericons/feather)
 
 
-# 📦  Libraries
- - [Axios](https://github.com/axios/axios)
- - [Styled Components](https://styled-components.com)
- - [React Router Dom](https://reacttraining.com/react-router/web)
- - [React Icons](https://react-icons.github.io/react-icons/)
- - [Feather Icons](https://github.com/feathericons/feather)
+# Acknowledgments
 
-
-# :page_with_curl: License
-
+This was only possible with the help of [RocketSeat](https://rocketseat.com.br/), the best brazilian bootcamp :purple_heart:!
