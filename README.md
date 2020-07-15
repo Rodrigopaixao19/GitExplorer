@@ -31,4 +31,4 @@ A Web app built with ReactJS and Styled Components where you can
 
 # Acknowledgments
 
-This was only possible with the help of [RocketSeat](https://rocketseat.com.br/), the best brazilian bootcamp :purple_heart:!
+This was only possible with the help of [RocketSeat](https://rocketseat.com.br/), the best brazilian bootcamp :purple_heart: !
