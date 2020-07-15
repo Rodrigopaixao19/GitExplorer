@@ -28,6 +28,20 @@ A Web app built with ReactJS and Styled Components where you can
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Feather Icons](https://github.com/feathericons/feather)
 
+# :file_folder: Running the app
+
+```javascript
+# Clone this repository
+$ git clone https://github.com/Rodrigopaixao19/GitExplorer
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
+ 
+
 
 # Acknowledgments
 
